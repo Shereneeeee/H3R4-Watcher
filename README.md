@@ -25,8 +25,6 @@
 
 Before launching the system, ensure you have the required libraries installed:
 
-**Bash**
-
 ```
 pip install pynput rich questionary
 ```
@@ -34,7 +32,6 @@ pip install pynput rich questionary
 ## 🚀 Installation & Usage
 
 1. **Clone the Repository:**
-   **Bash**
 
    ```
    git clone https://github.com/Shereneeeee/H3R4-Watcher
@@ -63,8 +60,6 @@ WATCHER utilizes a high-contrast **Red and White** theme for a professional secu
 
 Exported logs in `log_dump.txt` follow a standardized timestamp format:
 
-**Plaintext**
-
 ```
 14:20:05 - w
 14:20:06 - a
@@ -84,6 +79,6 @@ Exported logs in `log_dump.txt` follow a standardized timestamp format:
 
 ---
 
-**Developed by:** [ren.k_k](https://www.google.com/search?q=https://github.com/Shereneeeee)
+**Developed by:** [ren.k_k](https://github.com/Shereneeeee)
 
 ![Static Badge](https://img.shields.io/badge/Status-ACTIVE%20%2F%20STABLE-brightgreen)
