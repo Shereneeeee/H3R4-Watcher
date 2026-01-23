@@ -1,9 +1,9 @@
 # H3R4-Watcher: Keyboard Input Monitoring System
 
 <div align="center">
-<img src="[https://img.shields.io/badge/Status-Active-brightgreen](https://www.google.com/search?q=https://img.shields.io/badge/Status-Active-brightgreen)" alt="Status Active">
-<img src="[https://img.shields.io/badge/Python-3.8+-blue](https://www.google.com/search?q=https://img.shields.io/badge/Python-3.8%2B-blue)" alt="Python Version">
-<img src="[https://img.shields.io/badge/License-MIT-yellow](https://www.google.com/search?q=https://img.shields.io/badge/License-MIT-yellow)" alt="License">
+<img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status Active">
+<img src="https://img.shields.io/badge/Python-3.8%2B-blue" alt="Python Version">
+<img src="https://img.shields.io/badge/License-MIT-yellow" alt="License">
 
 **🕵️ WATCHER: Silent Input Monitoring System**
 
